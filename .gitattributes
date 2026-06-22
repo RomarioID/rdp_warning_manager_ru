@@ -1,4 +1,4 @@
-*.bat text eol=crlf working-tree-encoding=CP1251
+*.bat -text
 *.md text eol=lf
 *.gitignore text eol=lf
 .gitattributes text eol=lf
